@@ -1,4 +1,9 @@
 p {
 color: red;
-font: Garamond
+font-family: Garamond
+}
+
+h1 {
+ color: blue;
+   font-family: Garamond;
 }
