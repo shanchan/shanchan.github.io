@@ -1,0 +1,45 @@
+body {
+  background-image: url("background_img.png")
+}
+
+h1 {
+color: blue;
+font-family: Garamond, Helvetica !important;
+font-size: 60px !important;
+border-bottom: 5px groove;
+}
+
+h2 {
+  font-family: Garamond, Helvetica !important;
+  border-bottom: 3px groove;
+}
+
+ul {
+font-family: Garamond, Helvetica !important;
+font-size: 18px;
+}
+
+p {
+  font-family: Garamond, Helvetica !important;
+  font-size: 20px;
+}
+
+footer {
+padding-top: 10px;
+  font-size: 10px;
+}
+
+.profile-content {
+  padding: 10px 0px 10px;
+}
+
+#imgresize {
+  max-width: 50%;
+  max-height: 50%;
+  display: inline;
+}
+
+#profileborder {
+  border-bottom: 3px groove;
+  padding-bottom: 5px;
+}
