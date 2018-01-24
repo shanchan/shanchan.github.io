@@ -1,2 +1,2 @@
-# shanchan.github.io
+# seansresume.github.io
 HTML resume
